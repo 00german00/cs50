@@ -1,3 +1,0 @@
-c:\users\german fondevila\documents\visual studio 2015\Projects\Functions\Functions\bin\Debug\Functions.exe.config
-C:\Users\German Fondevila\Documents\Visual Studio 2015\Projects\Howework week 1\Functions\Functions\bin\Debug\Functions.exe.config
-C:\Users\German Fondevila\Documents\Visual Studio 2015\Projects\Howework week 1\Functions\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache

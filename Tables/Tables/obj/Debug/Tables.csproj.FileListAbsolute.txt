@@ -1,7 +1,0 @@
-c:\users\german fondevila\documents\visual studio 2015\Projects\Tables\Tables\bin\Debug\Tables.exe.config
-C:\Users\German Fondevila\Documents\Visual Studio 2015\Projects\Howework week 1\Tables\Tables\bin\Debug\Tables.exe.config
-C:\Users\German Fondevila\Documents\Visual Studio 2015\Projects\Howework week 1\Tables\Tables\bin\Debug\Tables.exe
-C:\Users\German Fondevila\Documents\Visual Studio 2015\Projects\Howework week 1\Tables\Tables\bin\Debug\Tables.pdb
-C:\Users\German Fondevila\Documents\Visual Studio 2015\Projects\Howework week 1\Tables\Tables\obj\Debug\Tables.csprojResolveAssemblyReference.cache
-C:\Users\German Fondevila\Documents\Visual Studio 2015\Projects\Howework week 1\Tables\Tables\obj\Debug\Tables.exe
-C:\Users\German Fondevila\Documents\Visual Studio 2015\Projects\Howework week 1\Tables\Tables\obj\Debug\Tables.pdb
