@@ -1,0 +1,7 @@
+c:\users\german fondevila\documents\visual studio 2015\Projects\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\German Fondevila\Documents\Visual Studio 2015\Projects\Howework week 1\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\German Fondevila\Documents\Visual Studio 2015\Projects\Howework week 1\Rectangle\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\German Fondevila\Documents\Visual Studio 2015\Projects\Howework week 1\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\German Fondevila\Documents\Visual Studio 2015\Projects\Howework week 1\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\German Fondevila\Documents\Visual Studio 2015\Projects\Howework week 1\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\German Fondevila\Documents\Visual Studio 2015\Projects\Howework week 1\Rectangle\Rectangle\obj\Debug\Rectangle.pdb
