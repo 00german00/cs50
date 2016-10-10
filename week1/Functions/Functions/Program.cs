@@ -14,8 +14,9 @@ namespace Functions
             Console.WriteLine(Max(args));
             Console.WriteLine(Min(args));
             Console.WriteLine(Average(args));
-            Console.ReadLine();
+            Console.ReadLine();     
         }
+
 
         //calculate Max num in the array
         static int Max(params int[] numbers)
