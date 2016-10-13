@@ -30,7 +30,8 @@ namespace ConsoleApplication1
             Console.WriteLine(s3.ToString());
             Console.WriteLine(s2.Equals(s));
             Console.WriteLine(s.Equals(s3));
-            Console.ReadLine();           
+            Console.ReadLine();
+                     
         }
     }
 
@@ -64,7 +65,7 @@ namespace ConsoleApplication1
                 //return false;
             }
             return false;
-        }
+        }     
 
     }   
 
