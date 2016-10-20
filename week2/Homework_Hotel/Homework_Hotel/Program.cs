@@ -8,8 +8,6 @@ namespace Homework_Hotel
 {
     class Program
     {
-        Accounts Global = new Accounts();
-
         static void Main(string[] args)
         {
             Menu1();                   
